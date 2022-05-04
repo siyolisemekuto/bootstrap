@@ -1,0 +1,15 @@
+section{
+    padding:15px 0px;
+}
+h4{
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.rounded-circle{
+    margin-top: 50px;
+}
+#specials li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#specials{
+    overflow: hidden;
+}
