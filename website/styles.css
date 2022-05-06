@@ -28,3 +28,14 @@ h4{
     background-image: url(./assets/fireworks.jpg);
     background-color: #0C0B0ACC;
 }
+.btn-warning{
+    border-radius: 50px;
+}
+.galleryPicture{
+    width: 250px;
+    height: 200px;
+    padding:2px; 
+}
+#gallery .d-block{
+     padding-left: 85px;
+}
